@@ -1,0 +1,13 @@
+# SQLite database
+calendar.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Secret files
+.env
